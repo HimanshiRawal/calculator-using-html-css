@@ -1,0 +1,33 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    /* background-color: #011627;
+    color: beige; */
+    text-align: center;
+    background-image: url(https://wallpapers.com/images/hd/starry-sky-hd-wallpaper-ada68y2sbna9ukkd.webp);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+}
+h1{
+    font-size: 45px;
+
+    
+}
+input{
+    width: 75px;
+    height: 50px;
+    font-size: 45px;
+    border-radius: 10px;
+    margin: 10px;
+    background-color: aliceblue;
+    color: black;
+    border-style: noneg;
+}
+.btn:hover{
+    background-color: yellow;
+    cursor: pointer;
+
+}
+   
